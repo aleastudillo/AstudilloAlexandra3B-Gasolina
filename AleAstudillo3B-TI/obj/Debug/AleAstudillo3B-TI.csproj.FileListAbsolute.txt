@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\AleAstudillo3B-TI\AleAstudillo3B-TI\bin\Debug\AleAstudillo3B-TI.exe.config
+C:\Users\alex_\source\repos\AleAstudillo3B-TI\AleAstudillo3B-TI\bin\Debug\AleAstudillo3B-TI.exe
+C:\Users\alex_\source\repos\AleAstudillo3B-TI\AleAstudillo3B-TI\bin\Debug\AleAstudillo3B-TI.pdb
+C:\Users\alex_\source\repos\AleAstudillo3B-TI\AleAstudillo3B-TI\obj\Debug\AleAstudillo3B-TI.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\AleAstudillo3B-TI\AleAstudillo3B-TI\obj\Debug\AleAstudillo3B-TI.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\AleAstudillo3B-TI\AleAstudillo3B-TI\obj\Debug\AleAstudillo3B-TI.exe
+C:\Users\alex_\source\repos\AleAstudillo3B-TI\AleAstudillo3B-TI\obj\Debug\AleAstudillo3B-TI.pdb
